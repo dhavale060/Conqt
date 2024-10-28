@@ -1,0 +1,42 @@
+{"SupplierDetails":{
+    "title":"Supplier Details", 
+    "Data":[
+  {
+    "inputTitle": "Supplier Name",
+    "placeholder": "Enter Supplier Name",
+    "error": "Please fill valid value",
+    "isSelect":false
+  },
+  {
+    "inputTitle": "Company Name",
+    "placeholder": "Enter Company Name",
+    "error": "Please fill valid value",
+    "isSelect":false
+  },
+  {
+    "inputTitle": "Country",
+    "options": ["","India","America","South Africa"],
+    "error": "Please Select Country",
+    "isSelect":true
+  },
+  {
+    "inputTitle": "State",
+    "options": ["","Maharashra","Gujrat","Uttra Pradesh"],
+    "error": "Please Select State",
+    "isSelect":true
+  },
+  {
+    "inputTitle": "City",
+    "placeholder": "Enter City Name",
+    "error": "Please fill valid value",
+    "isSelect":false
+  },
+  {
+    "inputTitle": "Email Address",
+    "placeholder": "Enter email address",
+    "error": "Please fill valid email",
+    "isSelect":false
+  }
+    ]
+    }
+  }

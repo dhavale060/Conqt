@@ -1,0 +1,34 @@
+  {"ItemDetails":{
+    "title":"Item Details", 
+    "Data":[
+  { 
+    "id":"1",
+    "inputTitle": "Item Name",
+    "type":"text",
+    "placeholder": "Enter Item Name",
+    "error": "Please fill valid value"
+  },
+  { 
+    "id":"2",
+    "inputTitle": "Quantity",
+    "type":"number",
+    "placeholder": "Enter Quantity",
+    "error": "Please fill valid value"
+  },
+  {
+    "id":"3",
+    "inputTitle": "Unit Price",
+    "type":"number",
+    "placeholder": "Enter Unit Price",
+    "error": "Please fill valid value"
+  },
+  {
+    "id":"4",
+    "inputTitle": "Date of Submission",
+    "type":"date",
+    "placeholder": "Enter Date of Submission",
+    "error": "Please fill valid value"
+  }
+    ]
+    }
+  }
